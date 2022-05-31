@@ -30,6 +30,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronicamarques&layout=compact&theme=synthwave)](https://github.com/veronicamarques/github-readme-stats)
 
+![Snake animation](https://github.com/veronicamarques/veronicamarques/blob/output/github-contribution-grid-snake.svg)
+
 <br/>
 <h2>Contact:</h2>
 <img align="left" alt="Discord" target="_blank" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png"/>
