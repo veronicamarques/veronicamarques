@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronicamarques&layout=compact&theme=synthwave)](https://github.com/veronicamarques/github-readme-stats)
 
-![Snake animation](https://github.com/veronicamarques/veronicamarques/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/veronicamarques/veronicamarques/blob/output/github-contribution-grid-snake.svg) -->
 
 <br/>
 <h2>Contact:</h2>
